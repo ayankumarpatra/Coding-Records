@@ -15,3 +15,8 @@ Linked List Bassed  : 12
 10. Q10_(leetcode 142 Linked List Cycle II)
 11. Q11_(leetcode 23. Merge k Sorted Lists)
 12. Q12_(leetcode 148. Sort List)
+13. Q13(86. Partition List)
+14. Q14( 328. Odd Even Linked List )
+15. Q15_(206. Reverse Linked List)
+16. Q16_(234. Palindrome Linked List optimized)
+17. Q17(92. Reverse Linked List II)
